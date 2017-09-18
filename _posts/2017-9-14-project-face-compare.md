@@ -1,6 +1,7 @@
 ---
 laout: post
 title: "face-compare 人脸认证"
+project: true
 date: 2017-09-14
 tags: [git post]
 comments: true
