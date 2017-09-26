@@ -15,7 +15,7 @@ comments: true
 
 人脸识别
 
-![image](http://image.jiantuku.com/17-9-26/2239323.jpg?attname=file_1506415603296_cf0a.gif&e=1506416410&token=el7kgPgYzpJoB23jrChWJ2gV3HpRl0VCzFn8 rKKv:r_US1xOdOttOrHaycq86iQ-NZOc=)
+![image](http://image.jiantuku.com/17-9-26/2239323.jpg?imageView2/1/w/200/h/200&e=1506416410&token=el7kgPgYzpJoB23jrChWJ2gV3HpRl0VCzFn8rKKv:K3hM5jtOPmzW8SRYUB1I5tAEXz8=)
 
 手势识别
 
