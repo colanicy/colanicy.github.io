@@ -19,5 +19,5 @@ comments: true
 
 手势识别
 
-![image](http://image.jiantuku.com/17-9-20/53739530.jpg?imageView2/1/w/200/h/200&e=1505900410&token=el7kgPgYzpJoB23jrChWJ2gV3HpRl0VCzFn8rKKv:r58raqvnsF_bdkfa-LrajAfh45k=)
+![image](http://image.jiantuku.com/17-9-26/19635294.jpg?imageView2/1/w/200/h/200&e=1506417610&token=el7kgPgYzpJoB23jrChWJ2gV3HpRl0VCzFn8rKKv:qGxV73Mm6imqG_bxeT1vHHKB6Hc=)
 
