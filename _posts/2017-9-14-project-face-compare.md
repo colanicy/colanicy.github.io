@@ -15,9 +15,9 @@ comments: true
 
 人脸识别
 
-![image](http://image.jiantuku.com/17-9-26/2239323.jpg?imageView2/1/w/200/h/200&e=1506416410&token=el7kgPgYzpJoB23jrChWJ2gV3HpRl0VCzFn8rKKv:K3hM5jtOPmzW8SRYUB1I5tAEXz8=)
+根据实时抓拍到的人脸图像，与数据库中的人脸图像，进行特征比对。判断是否同一个人。
 
 手势识别
 
-![image](http://image.jiantuku.com/17-9-26/19635294.jpg?imageView2/1/w/200/h/200&e=1506417610&token=el7kgPgYzpJoB23jrChWJ2gV3HpRl0VCzFn8rKKv:qGxV73Mm6imqG_bxeT1vHHKB6Hc=)
+根据实时抓拍到的手势，识别其含义。
 
